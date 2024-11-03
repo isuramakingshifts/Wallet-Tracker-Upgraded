@@ -17,17 +17,7 @@ It's actually super simple:
 3. Add your API keys and stuff to Railway as environment variables/
 4. You're ready to go! 🎮
 
-To add wallet you can use this repo - 
-
-## 🎯 Quick Setup Guide
-
-Just add these to your Railway environment:
-
-BOT_TOKEN=your-telegram-bot-token
-DATABASE_URL=your-database-url
-HELIUS_API_KEY=your-helius-api-key
-WEBHOOK_ID=your-webhook-id
-
+To add wallet you can use this repo - [Manager](https://github.com/isuramakingshifts/Wallet-Manager-For-Wallet-Tracker)
 
 ## 🤙 Need Help?
 
