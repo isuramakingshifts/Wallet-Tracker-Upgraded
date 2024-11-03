@@ -17,7 +17,7 @@ It's actually super simple:
 3. Add your API keys and stuff to Railway as environment variables/
 4. You're ready to go! 🎮
 
-To add wallet you can use this repo - [Manager](https://github.com/isuramakingshifts/Wallet-Manager-For-Wallet-Tracker)
+To add wallet you can use this repo - [Manager](https://github.com/isuramakingshifts/Wallets-Manager)
 
 ## 🤙 Need Help?
 
