@@ -24,15 +24,14 @@ To add wallet you can use this repo - [Manager](https://github.com/isuramakingsh
 Stuck somewhere? DM me on [Twitter](https://x.com/lmaofring) - always down to help!
 
 ## 💎 Wanna Support?
-9QMLD3SZCKcQEKBqeSkPgBuFKefxiPb7MdxzRvxCK6Kg
+9QMLD3SZCKcQEKBqeSkPgBuFKefxiPb7MdxzRvxCK6Kg - sol
 
-**
 ## ⚠️ Just Remember
 
 This isn't financial advice! Only trade what you can afford to lose. Stay safe out there! 🛡️
 
 ---
-Made with 💻 by someone who spends way too much time in trenches.**
+Made with 💻 by someone who spends way too much time in trenches.
 
 
 
